@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there 👋
+
+<img src="https://raw.githubusercontent.com/JulioSM98/JulioSM98/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/JulioSM98/count.svg" />
+</p>
 
 <!--
 **JulioSM98/JulioSM98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

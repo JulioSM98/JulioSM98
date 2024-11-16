@@ -1,7 +1,5 @@
 # Hi there 👋
 
-<img src="https://raw.githubusercontent.com/JulioSM98/JulioSM98/master/resources/banner.png" alt="Hello world">
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/JulioSM98/count.svg" />
